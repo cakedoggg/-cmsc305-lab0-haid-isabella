@@ -1,4 +1,4 @@
-# -cmsc305-lab0-haid-isabella
+# cmsc305-lab0-haid-isabella
 
  Name ih4184@bard.edu
  09/10/20
